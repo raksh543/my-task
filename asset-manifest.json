@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/my-task/static/js/main.5b783c76.chunk.js",
-    "main.js.map": "/my-task/static/js/main.5b783c76.chunk.js.map",
+    "main.js": "/my-task/static/js/main.ca7eef10.chunk.js",
+    "main.js.map": "/my-task/static/js/main.ca7eef10.chunk.js.map",
     "runtime-main.js": "/my-task/static/js/runtime-main.35ecdd31.js",
     "runtime-main.js.map": "/my-task/static/js/runtime-main.35ecdd31.js.map",
     "static/js/2.4ed6ef26.chunk.js": "/my-task/static/js/2.4ed6ef26.chunk.js",
     "static/js/2.4ed6ef26.chunk.js.map": "/my-task/static/js/2.4ed6ef26.chunk.js.map",
     "index.html": "/my-task/index.html",
-    "precache-manifest.868b045903e639a0752fdb97a8434232.js": "/my-task/precache-manifest.868b045903e639a0752fdb97a8434232.js",
+    "precache-manifest.94f35cdd0e2b59b36d2551a6804ee348.js": "/my-task/precache-manifest.94f35cdd0e2b59b36d2551a6804ee348.js",
     "service-worker.js": "/my-task/service-worker.js",
     "static/js/2.4ed6ef26.chunk.js.LICENSE.txt": "/my-task/static/js/2.4ed6ef26.chunk.js.LICENSE.txt",
     "static/media/smile.png": "/my-task/static/media/smile.09ea3187.png"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.35ecdd31.js",
     "static/js/2.4ed6ef26.chunk.js",
-    "static/js/main.5b783c76.chunk.js"
+    "static/js/main.ca7eef10.chunk.js"
   ]
 }
