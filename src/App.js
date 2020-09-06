@@ -10,7 +10,7 @@ const App = () => {
         <View>
             <Placed />
             <Rating />
-            <View style={{flexDirection: 'row', padding:10, justifyContent: 'center', width:'100%', flex:1, flexWrap: 'wrap'}}>
+            <View style={{flexDirection: 'row', padding:10, justifyContent: 'space-around', width:'100%', flex:1, flexWrap: 'wrap'}}>
                 <OrderedItems />
                 <PaymentInfo />
             </View>

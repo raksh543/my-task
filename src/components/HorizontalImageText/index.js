@@ -31,13 +31,16 @@ const HorizontalImageText = ({
 const createStyles = (imageSide) =>
   StyleSheet.create({
     container: {
-      flex: 1,
       flexWrap: 'wrap',
       flexDirection: imageSide === 'right' ? 'row-reverse' : 'row',
       marginTop: 16,
       padding:12,
       borderColor: 'grey',
       borderWidth: 1,
+      justifyContent: 'center',
+      flexGrow:1,
+      marginRight:12,
+      marginLeft:12
     },
     subContainer: {
       justifyContent: 'center'
